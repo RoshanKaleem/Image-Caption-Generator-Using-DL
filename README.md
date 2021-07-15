@@ -1,5 +1,9 @@
 # IMAGE CAPTION GENERATOR
 
+## CODE:
+
+<a href="https://colab.research.google.com/drive/1_vEu0AlyRezbSklxd-BnRLtk-uReyXBH?usp=sharing" target='_blank'> COLAB LINK </a>
+
 ## Problem Statement
 
 This project aims at presenting a model to generate natural language descriptions of images along with  their regions learn about inter-modal correspondences between language and visual data. Such model would have multifarious applications ranging from editing and virtual assistants to social media applications helping next gen robots to take decisions making  applications to assist blind people.
@@ -46,9 +50,7 @@ Very challenging task to perform as it requires expertise and research in both f
 * Both input models uses regularization with 50% drop out
 * Decoder merges vector from both input models using addition operation which is fed to a dense 256 layer & final densed layer respectively. This results into prediction over the entire output vocabulary for the next word in sequence.
 
-## CODE:
 
-<a href="https://colab.research.google.com/drive/1_vEu0AlyRezbSklxd-BnRLtk-uReyXBH?usp=sharing" target='_blank'> COLAB LINK </a>
 
 ## GUIDE:
 ## For Training and Testing:
