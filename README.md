@@ -2,7 +2,7 @@
 
 ## CODE:
 
-<a href="https://colab.research.google.com/drive/1_vEu0AlyRezbSklxd-BnRLtk-uReyXBH?usp=sharing" target='_blank'> COLAB LINK </a>
+<a href="https://colab.research.google.com/drive/1tF6PIko-aKj1KsUBZ4KLaVsORQI0HuCa?usp=sharing" target='_blank'> COLAB LINK </a>
 
 ## Problem Statement
 
